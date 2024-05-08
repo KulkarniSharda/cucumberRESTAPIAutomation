@@ -8,16 +8,28 @@
         <list>
           <option value="agileautomation" />
           <option value="agileautomation" />
+          <option value="cucumberRESTAPIAutomation" />
+          <option value="cucumberRESTAPIAutomation" />
+          <option value="cucumberRESTAPIAutomation" />
+          <option value="cucumberRESTAPIAutomation" />
         </list>
       </option>
       <option name="ignoredPackages">
         <list>
           <option value="commons-codec:commons-codec:1.11" />
           <option value="org.yaml:snakeyaml:1.23" />
+          <option value="org.yaml:snakeyaml:1.23" />
+          <option value="com.jayway.jsonpath:json-path:2.8.0" />
+          <option value="commons-fileupload:commons-fileupload:1.5" />
+          <option value="org.eclipse.jetty.http2:http2-common:11.0.18" />
         </list>
       </option>
       <option name="ignoredReasons">
         <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
           <option value="Not exploitable" />
           <option value="Not exploitable" />
         </list>
