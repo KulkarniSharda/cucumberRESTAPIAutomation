@@ -1,0 +1,10 @@
+{
+  "progress": "0",
+  "is_complete": "false",
+  "subject": "Need to contact vendor",
+  "type": "MEETING",
+  "priority_type": "MEDIUM",
+  "status": "YET_TO_START",
+  "taskDescription": "This is very important. We need to discuss with few vendors about the product."
+
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Sizuka_Deal1",
+  "expected_value": "1000",
+  "probability": "100",
+  "close_date": 1455042600,
+  "milestone": "Proposal",
+  "contact_ids": [
+    "5602613134163968"
+  ],
+  "custom_data": [
+    {
+      "name": "Group Size",
+      "value": "20"
+    }
+  ]
+}

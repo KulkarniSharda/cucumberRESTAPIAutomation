@@ -1,0 +1,20 @@
+{
+  "type": "COMPANY",
+  "properties": [
+    {
+      "name": "Company Type",
+      "type": "CUSTOM",
+      "value": "MNC Inc"
+    },
+    {
+      "type": "SYSTEM",
+      "name": "name",
+      "value": "Swifz"
+    },
+    {
+      "type": "SYSTEM",
+      "name": "url",
+      "value": "http://www.swifz.com/"
+    }
+  ]
+}
